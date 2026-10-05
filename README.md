@@ -31,6 +31,10 @@ El desarrollo abarca los siguientes componentes clave:
 
 ---
 
+## Imágenes
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/086a3971-14a7-4586-bc53-aa2f7fd95d41" />
+
+
 ## Instrucciones de Ejecución
 
 1. Iniciar la máquina virtual con **Ubuntu Server** en **VirtualBox** e ingresar a la terminal del sistema con un usuario que posea privilegios `sudo`[cite: 13, 15].
